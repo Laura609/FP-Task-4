@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "HZPUb4/utkmjzjpOIkej9EjYPri55TLgwmsb/SJbeNQYVOO+3F2PD2l+B/nQsHtHG2M0KAkduJOyCzhg7zEHJw==",
+  "success": true,
+  "projectFilePath": "D:\\project\\12121\\FP-Task-4\\FP-Task-4\\FP-Task-4\\FP-Task-4.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Laura\\.nuget\\packages\\materialdesigncolors\\2.1.2\\materialdesigncolors.2.1.2.nupkg.sha512",
+    "C:\\Users\\Laura\\.nuget\\packages\\materialdesignthemes\\4.8.0\\materialdesignthemes.4.8.0.nupkg.sha512",
+    "C:\\Users\\Laura\\.nuget\\packages\\microsoft.xaml.behaviors.wpf\\1.1.39\\microsoft.xaml.behaviors.wpf.1.1.39.nupkg.sha512"
+  ],
+  "logs": []
+}
